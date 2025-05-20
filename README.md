@@ -22,6 +22,13 @@ I am a passionate web developer with a solid foundation in both front-end and ba
 Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel.app**](https://portfolio-krishs-projects-41491346.vercel.app/)
 
 ### 🛠️ Tech Stack
+ **Ethical Hacking & Vulnerability Assessments:**
+  ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?logo=metasploit&logoColor=white&style=for-the-badge)
+  ![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap&logoColor=white&style=for-the-badge)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ED6B3B?logo=hackthebox&logoColor=white&style=for-the-badge)
+  ![Maltego](https://img.shields.io/badge/Maltego-00A8E1?logo=graphcool&logoColor=white&style=for-the-badge)
+
 - **Front-end:** 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,12 +48,7 @@ Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-   **Ethical Hacking & Vulnerability Assessments:**
-  ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?logo=metasploit&logoColor=white&style=for-the-badge)
-  ![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap&logoColor=white&style=for-the-badge)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ED6B3B?logo=hackthebox&logoColor=white&style=for-the-badge)
-  ![Maltego](https://img.shields.io/badge/Maltego-00A8E1?logo=graphcool&logoColor=white&style=for-the-badge)
+  
 
 ### 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreepada-mohana-krishna-79311333b/)
