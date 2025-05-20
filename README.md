@@ -16,7 +16,7 @@
 </picture>
 
 ### 👨‍💻 About Me
-I am a passionate web developer with a solid foundation in both front-end and back-end technologies. I enjoy building responsive and user-friendly web applications.
+I am a passionate ethical hacker and web developer with a solid foundation in cybersecurity and both front-end and back-end technologies. I enjoy building responsive and user-friendly web applications.
 
 ### 🌟 Check Out My Work
 Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel.app**](https://portfolio-krishs-projects-41491346.vercel.app/)
@@ -65,7 +65,13 @@ Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel
 
 ---
 
-<p align= center ><img src="https://komarev.com/ghpvc/?username=krishrio21&label=Profile%20views&color=0e75b6&style=flat" alt="krishrio21" /></p>
+<p align="center" style="margin: 1rem auto;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=krishrio21&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="krishrio21" 
+    style="border-radius: 8px; background: #f0f4f8; padding: 4px 10px;"
+  />
+</p>
 
 
 
