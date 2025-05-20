@@ -1,59 +1,19 @@
 # Hello, I'm Krishna Sreepada! 👋
 
-<style>
-  .epic-snake-wrapper {
-    max-width: 650px;
-    margin: 2rem auto;
-    padding: 1rem;
-    border-radius: 20px;
-    background: #121212;
-    box-shadow:
-      0 0 8px #00fff7,
-      0 0 20px #00fff7,
-      0 0 30px #00fff7,
-      0 0 40px #00fff7;
-    transition: box-shadow 1.5s ease-in-out infinite alternate;
-    animation: neon-glow 3s ease-in-out infinite alternate;
-  }
-  @keyframes neon-glow {
-    0% {
-      box-shadow:
-        0 0 10px #00fff7,
-        0 0 20px #00fff7,
-        0 0 30px #00fff7,
-        0 0 40px #00fff7;
-    }
-    100% {
-      box-shadow:
-        0 0 25px #00f9ff,
-        0 0 50px #00f9ff,
-        0 0 75px #00f9ff,
-        0 0 100px #00f9ff;
-    }
-  }
-  .epic-snake-wrapper img {
-    border-radius: 15px;
-    display: block;
-    width: 100%;
-    height: auto;
-    filter: drop-shadow(0 0 5px #00fff7);
-  }
-</style>
-
-<div class="epic-snake-wrapper">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img
-      alt="Epic GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      loading="lazy"
-      width="650"
-      height="170"
-    />
-  </picture>
-</div>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### 👨‍💻 About Me
 I am a passionate ethical hacker and web developer with a solid foundation in cybersecurity and both front-end and back-end technologies. I enjoy building responsive and user-friendly web applications.
