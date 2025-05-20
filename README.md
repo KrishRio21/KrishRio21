@@ -43,8 +43,10 @@ Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel
 
    **Ethical Hacking & Vulnerability Assessments:**
   ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
-  ![Nmap](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?logo=metasploit&logoColor=white&style=for-the-badge)
+  ![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap&logoColor=white&style=for-the-badge)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ED6B3B?logo=hackthebox&logoColor=white&style=for-the-badge)
+  ![Maltego](https://img.shields.io/badge/Maltego-00A8E1?logo=graphcool&logoColor=white&style=for-the-badge)
 
 ### 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreepada-mohana-krishna-79311333b/)
