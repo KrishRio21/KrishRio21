@@ -19,7 +19,7 @@
 I am a passionate web developer with a solid foundation in both front-end and back-end technologies. I enjoy building responsive and user-friendly web applications.
 
 ### 🌟 Check Out My Work
-Explore my portfolio to see some of the projects I've worked on: [**anujchaudhary.netlify.app**]([https://anujchaudhary.netlify.app/](https://portfolio-krishs-projects-41491346.vercel.app/))
+Explore my portfolio to see some of the projects I've worked on: [**Krish.vercel.app**](https://portfolio-krishs-projects-41491346.vercel.app/)
 
 ### 🛠️ Tech Stack
 - **Front-end:** 
