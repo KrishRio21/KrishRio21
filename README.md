@@ -1,6 +1,6 @@
 <div align="center">
 
-# Krishna Sreepada
+# Sreepada Mohana Krishna
 
 ### `Cybersecurity · ServiceNow Developer · Full-Stack Developer`
 
@@ -24,7 +24,7 @@ $ cat about.txt
 ```
 
 ```text
-Name    : Krishna Sreepada
+Name    : Sreepada Mohana Krishna
 Focus   : Cybersecurity | ServiceNow | Full-Stack Development
 Mission : Build secure systems and solve real-world IT problems
 Status  : Building, securing & automating
