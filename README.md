@@ -1,16 +1,12 @@
 <div align="center">
 
-```
-██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ 
-██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
-█████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
-██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
-██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+# Krishna Sreepada
 
-### `> Cybersecurity · ServiceNow Developer · Full-Stack Developer`
+### `Cybersecurity · ServiceNow Developer · Full-Stack Developer`
 
+Building secure systems, automating real-world IT solutions, and developing impactful applications.
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
