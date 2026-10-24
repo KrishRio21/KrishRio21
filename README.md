@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-### `> Ethical Hacker · Full-Stack Developer · Security Researcher`
+### `> Cybersecurity · ServiceNow Developer · Full-Stack Developer`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -27,66 +27,137 @@
 $ cat about.txt
 ```
 
-```
+```text
 Name    : Krishna Sreepada
-Role    : Ethical Hacker & Full-Stack Developer
-Mission : Securing the web, one vulnerability at a time
-Status  : Currently building & breaking things 🔐
+Focus   : Cybersecurity | ServiceNow | Full-Stack Development
+Mission : Build secure systems and solve real-world IT problems
+Status  : Building, securing & automating
 ```
 
-I'm a passionate **ethical hacker** and **full-stack developer** with a dual focus on building resilient web applications and uncovering security vulnerabilities before the bad guys do. I bridge the gap between development and security — because the best code is code that's built to withstand attack.
+I'm a **B.Tech Information Technology graduate** focused on cybersecurity, ServiceNow development, and full-stack application development.
 
-🔭 Currently working on: Web security tools & full-stack projects  
-🌱 Always learning: Advanced penetration testing, cloud security, and modern web frameworks  
-⚡ Fun fact: I think like an attacker so I can defend like a pro  
+I enjoy working across the security and development lifecycle — from **vulnerability assessment and security tooling** to **ITSM automation, server-side scripting, and secure web applications**.
+
+🔐 Cybersecurity & vulnerability assessment
+⚙️ ServiceNow development & ITSM automation
+💻 Full-stack web application development
+☁️ Cloud & security fundamentals
+🧪 Testing, automation & security-focused engineering
 
 ---
 
 ## `./skills --list`
 
-### 🛡️ Security & Ethical Hacking
+### 🛡️ Cybersecurity & Ethical Hacking
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?logo=metasploit&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap&logoColor=white&style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-ED6B3B?logo=hackthebox&logoColor=white&style=for-the-badge)
-![Maltego](https://img.shields.io/badge/Maltego-00A8E1?logo=graphcool&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux\&logoColor=white\&style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?logo=metasploit\&logoColor=white\&style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap\&logoColor=white\&style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ED6B3B?logo=burp-suite\&logoColor=white\&style=for-the-badge)
+![Maltego](https://img.shields.io/badge/Maltego-00A8E1?logo=maltego\&logoColor=white\&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark\&logoColor=white\&style=for-the-badge)
 
-> Penetration Testing · OSINT · Vulnerability Assessment · Network Scanning · Web App Security
-
----
-
-### 🎨 Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+> Vulnerability Assessment · Penetration Testing · Network Security · Web Security · OSINT · Security Analysis
 
 ---
 
-### ⚙️ Back-End
+### ⚙️ ServiceNow
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge\&logo=servicenow\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+> ITSM · Scoped Applications · Client Scripts · Business Rules · Script Includes · GlideAjax · UI Policies · UI Actions · ACLs · Notifications · Flow Designer · ATF
+
+#### Featured ServiceNow Project
+
+**[ServiceNow IT Service Management](https://github.com/krishrio21/servicenow-it-service-management)**
+
+A scoped ITSM application implementing:
+
+* Automated request routing
+* Dynamic request forms
+* Assignment Group automation
+* Request lifecycle management
+* GlideAjax and server-side scripting
+* Flow Designer automation
+* ACL-based security
+* Resolution notifications
+* Automated Test Framework (ATF)
+
+---
+
+### 🎨 Front-End Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+---
+
+### ⚙️ Back-End Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+---
+
+### 🗄️ Databases & Cloud Services
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge\&logo=razorpay\&logoColor=white)
 
 ---
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+## `./projects --featured`
+
+### 🔐 Cyber Threat Dashboard
+
+**React · FastAPI · Tailwind CSS · AbuseIPDB · AlienVault OTX · Shodan**
+
+Security-focused threat intelligence dashboard for analyzing IP addresses and retrieving threat intelligence from multiple security APIs.
+
+---
+
+### ⚙️ ServiceNow IT Service Management
+
+**ServiceNow · JavaScript · GlideAjax · Flow Designer · ATF**
+
+End-to-end ITSM scoped application with automated request routing, lifecycle management, security controls, notifications, and automated testing.
+
+👉 **[View Project](https://github.com/krishrio21/servicenow-it-service-management)**
+
+---
+
+### 🚢 Merchant Navy Job Portal
+
+**React · Node.js · Express · Firebase · Cloudinary · Razorpay**
+
+Full-stack recruitment platform featuring multi-step applications, resume uploads, payment integration, invoice generation, and an administrative dashboard.
+
+---
+
+### 🔐 Steg-Ultimate
+
+**React · Vite · Tailwind CSS · Node.js · Jimp**
+
+Web-based steganography application implementing image-based data hiding using LSB techniques.
 
 ---
 
@@ -95,7 +166,8 @@ I'm a passionate **ethical hacker** and **full-stack developer** with a dual foc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishrio21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishrio21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishrio21&locale=en&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Most Used Languages"/>
 
 </div>
 
@@ -111,9 +183,11 @@ I'm a passionate **ethical hacker** and **full-stack developer** with a dual foc
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-krish.vercel.app-000000?style=for-the-badge&logoColor=white)](https://portfolio-krishs-projects-41491346.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreepada-mohana-krishna-79311333b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishrio21)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-000000?style=for-the-badge)](https://portfolio-krishs-projects-41491346.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sreepada-mohana-krishna-79311333b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krishrio21)
 
 </div>
 
@@ -121,8 +195,8 @@ I'm a passionate **ethical hacker** and **full-stack developer** with a dual foc
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+*"Build securely. Automate intelligently. Think like an attacker."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=krishrio21&label=Profile+Views&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=krishrio21\&label=Profile+Views\&color=58a6ff\&style=flat-square)
 
 </div>
